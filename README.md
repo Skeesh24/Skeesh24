@@ -27,7 +27,7 @@ Check out _t.me/skeesh24_ if u need it
 </div
 
 <p>
-<a href="https://github.com/skeesh24/github-readme-activity-graph#gh-light-mode-only">
+<a href="https://github.com/skeesh24">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skeesh24&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/skeesh24/github-readme-activity-graph#gh-dark-mode-only">
