@@ -1,9 +1,9 @@
 With a passion for computer science. 
 -----------------------------------------
   
-Solid foundation in FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis, Docker, K8s </p>
+I develop on the FastAPI, SQLAlchemy, Alembic, PostgreSQL, Firebase, Redis, Docker, K8s 
 
-<p> I'm particularly interested in delving into writing real-world multithreaded applications and exploring lower-level programming languages.</p>
+<p> I'm interested in delving into writing real-world multithreaded applications and exploring lower-level programming languages.</p>
 
 ________________________________________________________________________________________________________________________
 Check out _t.me/skeesh24_ if u need it
