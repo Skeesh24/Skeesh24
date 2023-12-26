@@ -1,12 +1,12 @@
 With a passion for computer science. 
 -----------------------------------------
   
-I develop on the FastAPI, SQLAlchemy, Alembic, PostgreSQL, Firebase, Redis, Docker, K8s 
+I develop on FastAPI, SQLAlchemy, Alembic, PostgreSQL, MongoDB, Redis, Docker, K8s 
 
 <p> I'm interested in delving into writing real-world multithreaded applications and exploring lower-level programming languages.</p>
 
 ________________________________________________________________________________________________________________________
-Check out _t.me/skeesh24_ if u need it
+_t.me/skeesh24_
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,8 +16,6 @@ Check out _t.me/skeesh24_ if u need it
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <div style="display: flex"> 
   <a href="https://github.com/skeesh24">
